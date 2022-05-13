@@ -1,0 +1,15 @@
+body {
+    text-transform: capitalize;
+    background: rgb(170, 170, 240);
+    margin: 25px;
+    border:1px;
+    padding: auto;
+    text-align: justify;
+    font-size: 1.15em;
+}
+
+
+.link {
+    text-decoration: none;
+    
+}
