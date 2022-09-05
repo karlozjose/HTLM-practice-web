@@ -1,28 +1,48 @@
 body {
     text-transform: capitalize;
-    background: rgb(246, 246, 246);
+    background: rgba(10, 10, 10, 0.934);
     margin: 25px;
-    border: 3px double rgb(177, 170, 169);
+    border: 3px double rgb(255, 255, 255);
     padding: 3px;
     text-align: justify;
     font-size: 1.15em;
+    color: rgba(206, 199, 199, 0.778);
+}
+
+div {
+    background-color: rgba(53, 53, 53, 0.762);
+}
+
+p {
+    text-indent: 2em;
+}
+
+.meme {
+    color:white;
+    background-color: grey;
+    display:inline-block;
+    vertical-align: 150px;
+
 }
 
 .main-para {
-   display:inline;
+
 }
+
 .second-para {
-    display:inline;
+    display: inline;
 }
 
 .link {
     text-decoration: none;
-    
+    color:red;
+   
 }
 
 .site-header {
     color: red;
-    background-color: aquamarine;
+    background-color: rgb(28, 30, 29);
+    text-align: center;
 }
 
 #meme {
@@ -31,7 +51,13 @@ body {
     border: 3px double rgba(255, 255, 255, 0);
     margin-left: 20px;
     padding: 4px;
-  /*  float: right; */
+    
     display:show; /*makes things disapear*/
 
+}
+
+#banner {
+    align-items: center;
+    width: 250px;
+    display:none;
 }
