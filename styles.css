@@ -21,7 +21,8 @@ body {
 }
 
 .site-header {
-    color: rgb(19, 32, 115);
+    color: red;
+    background-color: aquamarine;
 }
 
 #meme {
