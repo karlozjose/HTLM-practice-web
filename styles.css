@@ -1,15 +1,36 @@
 body {
     text-transform: capitalize;
-    background: rgb(170, 170, 240);
+    background: rgb(171, 244, 186);
     margin: 25px;
-    border:1px;
-    padding: auto;
+    border: 3px double rgb(50, 190, 32);
+    padding: 3px;
     text-align: justify;
     font-size: 1.15em;
 }
 
+.main-para {
+   display:inline;
+}
+.second-para {
+    display:inline;
+}
 
 .link {
     text-decoration: none;
     
+}
+
+.site-header {
+    color: green;
+}
+
+#meme {
+    height: 250px;
+    width: auto;
+    border: 3px double rgb(36, 195, 34);
+    margin-left: 20px;
+    padding: 4px;
+  /*  float: right; */
+    display:none; /*makes things disapear*/
+
 }
