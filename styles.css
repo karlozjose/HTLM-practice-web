@@ -1,3 +1,4 @@
+
 body {
     text-transform: none;
     background: rgba(10, 10, 10, 0.934);
@@ -8,15 +9,6 @@ body {
     font-size: 1.15em;
     color: rgba(206, 199, 199, 0.778);
 }
-
-
-span {
-    background-color: greenyellow;
-}
-div {
-    background-color: rgba(53, 53, 53, 0.762);
-}
-
 
 
 p {
