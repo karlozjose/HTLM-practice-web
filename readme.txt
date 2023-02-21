@@ -1,1 +1,1 @@
-This is a practice web hosted on github
+This is a practice webpage, hosted on github
